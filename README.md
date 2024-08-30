@@ -49,7 +49,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
   <a href="https://credsverse.com/credentials/0e81f8a5-731e-4821-bae2-b86e9ae85159?recipient=true">
    <img src="https://img.shields.io/badge/-CSULB_Cybersecurity_Certificate-0055A4?&style=for-the-badge&logo=shield&logoColor=FFD700" />
